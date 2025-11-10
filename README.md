@@ -36,6 +36,7 @@ Soy **ALEXIS**, una persona con **poca experiencia en el ámbito de GitHub**, pe
 ---
 
 ¡Gracias por visitar mi perfil! 😄
+### Cambios desde Visual Studio Code en la nueva rama
 
 ### Cambios desde Visual Studio Code en la nueva rama
 
