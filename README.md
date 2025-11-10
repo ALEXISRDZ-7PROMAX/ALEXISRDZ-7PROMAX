@@ -27,27 +27,6 @@ Soy **ALEXIS**, una persona con **poca experiencia en el ámbito de GitHub**, pe
 
 ---
 
-## ✨ Cómo usar este README en tu perfil de GitHub
-
-1. Crea un repositorio nuevo con el nombre **exactamente igual a tu usuario**: `alexis/alexis`.
-2. Copia este `README.md` (este archivo) en la raíz del repositorio.
-3. Haz commit y push. GitHub mostrará automáticamente el README en tu perfil.
-
-**Comandos rápidos (Git):**
-
-```bash
-# Crear repo local
-mkdir alexis && cd alexis
-# Inicializar git y copiar README.md
-git init
-git add README.md
-git commit -m "feat: add GitHub profile README"
-# Conectar con el repo remoto y hacer push
-git remote add origin https://github.com/alexis/alexis.git
-git branch -M main
-git push -u origin main
-```
-
 ---
 
 ## 💡 Consejo final
