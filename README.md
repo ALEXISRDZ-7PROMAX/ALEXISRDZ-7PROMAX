@@ -38,6 +38,8 @@ Soy **ALEXIS**, una persona con **poca experiencia en el ámbito de GitHub**, pe
 ¡Gracias por visitar mi perfil! 😄
 ### Cambios desde Visual Studio Code en la nueva rama
 
+### Cambios desde Visual Studio Code en la nueva rama
+
 <!--
 **ALEXISRDZ-7PROMAX/ALEXISRDZ-7PROMAX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
