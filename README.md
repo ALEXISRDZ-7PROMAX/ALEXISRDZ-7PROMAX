@@ -1,5 +1,4 @@
-##
- Hi there 👋
+
 # ¡Hola! 👋 Soy ALEXIS
 
 > *Apasionado por los videojuegos y la música, con ganas de aprender más sobre GitHub y el desarrollo de software.*
